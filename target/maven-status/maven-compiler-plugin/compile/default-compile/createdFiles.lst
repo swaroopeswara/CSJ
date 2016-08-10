@@ -1,0 +1,8 @@
+com/xpts/csg/common/SerializationException.class
+com/xpts/csg/service/bean/test/StartupTest.class
+com/xpts/csg/model/CsgUser.class
+com/xpts/csg/common/JsonSerializer.class
+com/xpts/csg/common/Serializer.class
+com/xpts/csg/service/bean/UserServiceBean.class
+com/xpts/csg/service/UserService.class
+com/xpts/csg/common/JndiUtils.class
