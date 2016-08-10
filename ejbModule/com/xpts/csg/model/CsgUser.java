@@ -9,7 +9,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
-
+//added by swaroop to test
 @Entity
 @Table(name = "CSG_USER")
 public class CsgUser implements Serializable {
