@@ -18,7 +18,7 @@ public class CsgUser implements Serializable {
 	@Id	
 	@SequenceGenerator(name = "CSG_USER_ID_GEN", sequenceName = "CSG_USER_ID_SEQ", allocationSize = 1)
 	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "CSG_USER_ID_GEN")
-	@Column(name="USER_ID") //test
+	@Column(name="USER_ID") //test23
 	private Integer id;	
 	@Column(name="USER_IND", nullable=false, length=1)
 	private Integer indicator;
